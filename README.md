@@ -1,2 +1,0 @@
-# M_M_M_V_S
-Mean_Median_Mode_Variance_StandardDeviation_ exercises
